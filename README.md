@@ -1,4 +1,5 @@
 # Brilliant-scalefusion
+
 This is a simple help for upcomming scalefusion users, I am attaching some tips and source files here 
 
 
@@ -6,7 +7,7 @@ This is a simple help for upcomming scalefusion users, I am attaching some tips 
 
 
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
+<a href="https://github.com/ShidoItsuka2006/Brilliant-scalefusion">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
