@@ -40,7 +40,7 @@ This is a simple help for upcomming scalefusion users, I am attaching some tips 
   <br><br>
   
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<a href="https://github.com/ShidoItsuka2006"><img title="Owner" src="https://img.shields.io/badge/Owner-Myself-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
  <a href="https://github.com/ShidoItsuka2006/Brillian-scalefusion/blob/main/LICENSE.md">
   
