@@ -8,7 +8,7 @@ This is a simple help for upcomming scalefusion users, I am attaching some tips 
 
 <p align="center">
 <a href="https://github.com/ShidoItsuka2006/Brilliant-scalefusion">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+    <img src="https://www.capterra.co.za/software/156745/mobilock-pro">
   </a>
 
 <h1 align="center"> Atlas MD
