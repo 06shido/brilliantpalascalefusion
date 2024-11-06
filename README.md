@@ -35,7 +35,7 @@ This is a simple help for upcomming scalefusion users, I am attaching some tips 
 <br>
 
 <a href="https://github.com/ShidoItsuka2006/Brilliant-scalefusion">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/ShidoItsuka2006/Brilliant-scalefusion.visitor-badge&left_text=Total%20People%20Visited">
+    <img src= "https://wallpapers.com/images/featured-full/rem-nfohyw3eig0e1zyw.jpg"> 
   </a>
   <br><br>
   
